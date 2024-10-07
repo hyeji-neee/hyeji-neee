@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hyejin's Introduction👋
+
+이름: ✨신혜진✨
+생년월일: 2004.06.03
+성별: 여자
+소속: 영남대학교 / 컴퓨터학부 / 소프트웨어융합전공
+학번: 22312260
+이메일: tlsgmlsk123@naver.com
+
+
 
 <!--
 **hyeji-neee/hyeji-neee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
